@@ -1,0 +1,36 @@
+body{
+    background-color: grey;
+
+}
+header span{
+    font-family: 'Lobster', cursive;
+    font-size:xx-large;
+    margin-bottom: 0px;
+    
+}
+ header {
+     margin-top:0%;
+     margin-bottom: 20px;
+     background-color: whitesmoke;
+    
+ }
+
+   #images{
+       float: right;
+   }
+
+   main{
+       margin-top:30px;
+       text-align: center;
+       background-color: whitesmoke;
+   }
+
+    .p {
+        position: relative;
+        right:20%;
+    }
+/* 
+    #list {
+        position:relative;
+        z-index: -1; */
+    
