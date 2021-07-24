@@ -16,6 +16,7 @@ header span{
  }
 
    #images{
+    margin-top:2%;
        float: right;
    }
 
@@ -25,9 +26,34 @@ header span{
        background-color: whitesmoke;
    }
 
-    .p {
+    /* .p {
         position: relative;
         right:20%;
+    } */
+    #home,#date {
+        position: relative;
+        right:20%;
+    }
+    /* #van{
+       display:inline
+      margin-left: 20%;
+  
+        
+    } */
+   #Vanessa {
+    position: relative;
+    right:30%;
+    display: inline;
+   }
+    #button {
+        background-color: red;
+        position: relative;
+        left:20%;
+        
+    }
+    footer{
+        clear: both;
+
     }
 /* 
     #list {
