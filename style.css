@@ -1,5 +1,4 @@
 body{
-    background-color: grey;
 
 }
 header span{
@@ -24,11 +23,13 @@ header span{
        margin-top:30px;
        text-align: center;
        background-color: whitesmoke;
+       margin-bottom: 100px;
    }
 
     /* .p {
         position: relative;
         right:20%;
+
     } */
     #home,#date {
         position: relative;
@@ -54,9 +55,44 @@ header span{
     footer{
         clear: both;
 
+
+        font-family: 'Squada One', cursive;
+
     }
 /* 
     #list {
         position:relative;
         z-index: -1; */
     
+
+main table tr{
+text-align: center;
+}
+#section1 {
+    margin-left: 20%;
+    margin-right: 30%;
+}
+#vanessa {
+    float: left;
+    margin-right: 20px;
+}
+
+h3 {
+text-align: left;
+}
+
+footer {
+    text-align: center;
+    clear: both;
+}
+ main p {
+     margin-left: 20%;
+     margin-right:20% ;
+ }
+ section table{
+     align-content: center;
+ }
+
+  #line {
+    background-image: url("https://github.com/LTUC/amman-201d26/blob/main/class-10/lab-a/lab-assets/hr-img.png?raw=true");
+ } 
